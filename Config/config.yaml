@@ -138,7 +138,7 @@ Api_Server:
   # 备案查询API配置
   Icp_Api: 'https://v.api.aa1.cn/api/icp/index.php?url={}'
   # SOMD5解密API配置
-  Md5_Api: 'https://www.somd5.com/ss.php?api=4bc2161f&hash={}'
+  Md5_Api: ''
   # 图片API配置
   Pic_Api:
     - 'https://api.vvhan.com/api/girl'
