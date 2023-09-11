@@ -144,6 +144,7 @@ Api_Server:
     - 'https://api.vvhan.com/api/girl'
     - 'https://v.api.aa1.cn/api/pc-girl_bz/index.php?wpon=ro38d57y8rhuwur3788y3rd'
     - 'https://api.vvhan.com/api/mobil.girl'
+    - 'https://tuapi.eees.cc/api.php?category=meinv&px=m&type=302'
   # 视频API配置
   Video_Api:
     - 'https://v.api.aa1.cn/api/api-dy-girl/index.php?aa1=json'
